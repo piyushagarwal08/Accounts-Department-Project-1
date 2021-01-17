@@ -1,0 +1,1 @@
+bus,hostel,tuition,tv,utility,gym,other

@@ -1,0 +1,6 @@
+1. There can be multiple students
+2. Dictionary <String,Object>
+3. ReFramework
+4. Data Table (Output) should be dynamic
+5. Unique Attribute is Un.Roll Number
+6. If any roll number is empty, we can assume neglect the row
